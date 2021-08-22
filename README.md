@@ -1,6 +1,6 @@
 <h3>Hi there 👋 💓 devloper from 🏳️‍🌈(INDIA)<h3>
 
-- <h3>’m Full Stack Web Devloper</3>
+- <h3>I’m Full Stack Web Devloper</3>
 - 👯 I’m looking to collaborate on ... open source
 - 📫 How to reach me: ... nishantsingh1308@gmail.com<br>
   <i>-----------------------------------------------------</i><br>
