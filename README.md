@@ -4,12 +4,12 @@ Hi 👋 My name is Nishant Kumar
 Web Dev || Competitive Programmer
 ---------------------------------
 
-I am currently in 3rd Year in IIIT Sonepat.
+I am currently in 4th Year in IIIT Sonepat.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nishantsingh130@gmail.com](mailto:nishantsingh130@gmail.com)
-* 🧠  I'm learning Sql
-* ⚡  As Lazy as Turtle
+* 🧠  I'm learning Backend
+* ⚡  As Active as Thunderbolt
 
 <a href="https://www.twitter.com/nishant03131109" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nishant03131109?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
